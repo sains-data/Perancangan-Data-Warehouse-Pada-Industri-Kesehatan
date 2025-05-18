@@ -1,0 +1,201 @@
+id_perawatan;total_biaya;status_pembayaran
+1;2200000;Lunas
+2;500000;Belum Lunas
+3;1500000;Belum Lunas
+4;7700000;Lunas
+5;2200000;Belum Lunas
+6;250000;Belum Lunas
+7;500000;Belum Lunas
+8;400000;Lunas
+9;3000000;Lunas
+10;9200000;Lunas
+11;500000;Belum Lunas
+12;18000000;Belum Lunas
+13;3200000;Lunas
+14;750000;Lunas
+15;200000;Belum Lunas
+16;450000;Belum Lunas
+17;3150000;Belum Lunas
+18;650000;Belum Lunas
+19;6000000;Lunas
+20;1900000;Belum Lunas
+21;6450000;Belum Lunas
+22;4500000;Belum Lunas
+23;250000;Lunas
+24;500000;Lunas
+25;450000;Belum Lunas
+26;500000;Lunas
+27;6200000;Belum Lunas
+28;500000;Lunas
+29;350000;Lunas
+30;9150000;Belum Lunas
+31;650000;Belum Lunas
+32;4700000;Lunas
+33;150000;Lunas
+34;500000;Belum Lunas
+35;250000;Lunas
+36;6150000;Lunas
+37;9200000;Lunas
+38;400000;Belum Lunas
+39;6450000;Lunas
+40;400000;Lunas
+41;6000000;Lunas
+42;12250000;Belum Lunas
+43;7650000;Lunas
+44;750000;Belum Lunas
+45;500000;Lunas
+46;1000000;Lunas
+47;250000;Lunas
+48;3450000;Belum Lunas
+49;850000;Belum Lunas
+50;3400000;Belum Lunas
+51;7750000;Lunas
+52;150000;Belum Lunas
+53;6200000;Lunas
+54;200000;Lunas
+55;200000;Belum Lunas
+56;200000;Belum Lunas
+57;6350000;Belum Lunas
+58;6500000;Belum Lunas
+59;6500000;Lunas
+60;12000000;Lunas
+61;300000;Belum Lunas
+62;500000;Belum Lunas
+63;150000;Belum Lunas
+64;6650000;Lunas
+65;9500000;Lunas
+66;3650000;Belum Lunas
+67;3700000;Belum Lunas
+68;3500000;Belum Lunas
+69;1650000;Lunas
+70;3200000;Lunas
+71;3000000;Belum Lunas
+72;3000000;Belum Lunas
+73;6200000;Lunas
+74;200000;Lunas
+75;4500000;Belum Lunas
+76;200000;Belum Lunas
+77;6000000;Belum Lunas
+78;6500000;Lunas
+79;1500000;Lunas
+80;200000;Lunas
+81;3000000;Lunas
+82;500000;Lunas
+83;3000000;Belum Lunas
+84;1500000;Belum Lunas
+85;450000;Belum Lunas
+86;6200000;Lunas
+87;6500000;Belum Lunas
+88;6000000;Lunas
+89;7500000;Lunas
+90;12000000;Lunas
+91;350000;Lunas
+92;3000000;Lunas
+93;200000;Belum Lunas
+94;1750000;Lunas
+95;1500000;Lunas
+96;400000;Lunas
+97;200000;Belum Lunas
+98;1150000;Belum Lunas
+99;3450000;Belum Lunas
+100;350000;Belum Lunas
+101;7500000;Belum Lunas
+102;6000000;Belum Lunas
+103;6000000;Belum Lunas
+104;6700000;Lunas
+105;4650000;Lunas
+106;9000000;Lunas
+107;1500000;Lunas
+108;12000000;Lunas
+109;6000000;Belum Lunas
+110;200000;Lunas
+111;700000;Belum Lunas
+112;4500000;Lunas
+113;7500000;Belum Lunas
+114;3150000;Lunas
+115;500000;Lunas
+116;3250000;Lunas
+117;4500000;Belum Lunas
+118;700000;Lunas
+119;6000000;Belum Lunas
+120;4500000;Belum Lunas
+121;500000;Lunas
+122;2200000;Lunas
+123;3150000;Lunas
+124;250000;Belum Lunas
+125;950000;Belum Lunas
+126;2500000;Belum Lunas
+127;3200000;Belum Lunas
+128;250000;Belum Lunas
+129;9000000;Lunas
+130;500000;Belum Lunas
+131;1000000;Lunas
+132;6000000;Belum Lunas
+133;12250000;Lunas
+134;9000000;Lunas
+135;3500000;Lunas
+136;6700000;Belum Lunas
+137;250000;Lunas
+138;3000000;Lunas
+139;250000;Lunas
+140;3750000;Belum Lunas
+141;150000;Lunas
+142;200000;Belum Lunas
+143;2500000;Belum Lunas
+144;2500000;Belum Lunas
+145;850000;Lunas
+146;700000;Belum Lunas
+147;8000000;Belum Lunas
+148;7500000;Lunas
+149;3400000;Belum Lunas
+150;3500000;Lunas
+151;1800000;Belum Lunas
+152;6200000;Belum Lunas
+153;7000000;Belum Lunas
+154;500000;Belum Lunas
+155;150000;Lunas
+156;150000;Belum Lunas
+157;500000;Lunas
+158;3300000;Belum Lunas
+159;6500000;Belum Lunas
+160;6000000;Belum Lunas
+161;3500000;Lunas
+162;3000000;Lunas
+163;3200000;Lunas
+164;350000;Belum Lunas
+165;250000;Lunas
+166;400000;Belum Lunas
+167;300000;Lunas
+168;350000;Belum Lunas
+169;6200000;Belum Lunas
+170;250000;Lunas
+171;900000;Lunas
+172;3000000;Belum Lunas
+173;6000000;Lunas
+174;750000;Lunas
+175;1750000;Lunas
+176;3400000;Belum Lunas
+177;750000;Belum Lunas
+178;3150000;Belum Lunas
+179;7500000;Lunas
+180;6250000;Lunas
+181;150000;Lunas
+182;3000000;Belum Lunas
+183;6500000;Belum Lunas
+184;400000;Belum Lunas
+185;1650000;Lunas
+186;500000;Lunas
+187;900000;Belum Lunas
+188;550000;Lunas
+189;1000000;Lunas
+190;1150000;Belum Lunas
+191;6700000;Lunas
+192;2000000;Belum Lunas
+193;1500000;Lunas
+194;6500000;Belum Lunas
+195;3350000;Belum Lunas
+196;250000;Lunas
+197;6150000;Belum Lunas
+198;500000;Lunas
+199;1700000;Belum Lunas
+200;6250000;Lunas

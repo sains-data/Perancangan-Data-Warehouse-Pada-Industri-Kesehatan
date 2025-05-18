@@ -1,0 +1,201 @@
+id_pasien;nama_pasien;alamat;tanggal_lahir;jenis_kelamin;nomor_telepon
+1;Titin Sudiati;Gg. Abdul Muis No. 470, Cirebon, PB 69387;16/05/1968;L;81242525434
+2;Hamzah Saputra;Gang M.H Thamrin No. 5, Purwokerto, Aceh 77522;11/08/2021;L;81201381509
+3;Opan Situmorang;Jalan Asia Afrika No. 17, Pagaralam, Kalimantan Barat 46079;16/06/1995;L;81284085387
+4;Kurnia Hutasoit;Gg. Raya Ujungberung No. 02, Sungai Penuh, Sulawesi Selatan 73127;15/11/1940;P;81258522775
+5;Shakila Riyanti;Jl. Merdeka No. 4, Kotamobagu, Lampung 24484;05/05/2017;L;81231668334
+6;Saadat Purwanti;Gang Kutai No. 48, Salatiga, Kalimantan Barat 01203;31/05/2015;P;81218152448
+7;Muni Halim;Gg. Rajawali Timur No. 37, Madiun, Bali 24196;21/09/1974;L;81286022348
+8;Icha Sudiati;Gg. K.H. Wahid Hasyim No. 40, Tanjungbalai, Kalimantan Barat 01361;27/03/1978;L;81244861152
+9;Rizki Dabukke;Gang Waringin No. 411, Tidore Kepulauan, JK 23321;14/07/1975;L;81202341793
+10;Kenes Kurniawan;Gg. Tubagus Ismail No. 703, Parepare, NT 19616;18/11/1934;L;81209818677
+11;Karma Sudiati;Gg. Sukajadi No. 015, Sibolga, PA 23927;14/06/1980;L;81283856239
+12;Omar Budiman;Gg. Moch. Toha No. 1, Samarinda, Kalimantan Selatan 48051;19/03/1947;P;81278023941
+13;Heru Laksita;Jalan Cihampelas No. 13, Jambi, Kepulauan Riau 84211;10/05/1972;P;81238304477
+14;Kajen Halim;Jl. Jamika No. 757, Banda Aceh, JT 74874;20/03/1993;P;81293265837
+15;Reksa Hutagalung;Jl. Gardujati No. 10, Tanjungpinang, Kepulauan Riau 25869;02/02/1990;P;81256448360
+16;Genta Prasasta;Jalan Ir. H. Djuanda No. 38, Sungai Penuh, BT 16238;04/08/1985;P;81279742445
+17;Gangsa Gunarto;Gg. Peta No. 87, Singkawang, Papua Barat 63570;22/10/1972;P;81243942698
+18;Rizki Nainggolan;Gg. Sentot Alibasa No. 213, Banjarbaru, Maluku 15367;24/04/1943;L;81211329558
+19;Lanang Pratama;Jl. Monginsidi No. 4, Denpasar, KR 16441;11/05/1989;P;81248908768
+20;Yuliana Hidayat;Jl. M.T Haryono No. 309, Palu, KU 56539;27/10/1964;L;81270073530
+21;Gasti Maryadi;Jalan Kutisari Selatan No. 95, Kediri, Kalimantan Barat 29396;22/05/1974;P;81276841649
+22;Luhung Utama;Jl. Kendalsari No. 95, Tual, GO 26400;18/05/1990;L;81233750306
+23;Belinda Mangunsong;Jalan M.T Haryono No. 248, Pariaman, KR 41870;27/01/1965;P;81288179126
+24;Edi Sihotang;Gg. Joyoboyo No. 69, Padang, SU 32761;04/09/1957;P;81234655997
+25;Prayogo Ramadan;Jl. Raya Ujungberung No. 2, Kota Administrasi Jakarta Barat, KU 49100;24/01/2006;L;81233600089
+26;Gatra Sudiati;Jalan Abdul Muis No. 7, Surabaya, KI 71112;06/12/1951;P;81223086550
+27;Padmi Fujiati;Jl. Pasteur No. 37, Palangkaraya, NT 22083;22/05/1965;P;81274474356
+28;Carub Siregar;Jl. R.E Martadinata No. 10, Bitung, SU 49802;04/03/1992;L;81228992980
+29;Bagiya Pradipta;Jl. KH Amin Jasuta No. 38, Jayapura, Banten 88679;06/10/1958;L;81241651247
+30;Clara Kuswandari;Jl. Sukajadi No. 721, Tomohon, SN 35607;14/04/1955;L;81218814626
+31;Digdaya Hartati;Gg. Gegerkalong Hilir No. 805, Payakumbuh, Sumatera Utara 82723;19/10/2006;L;81267207768
+32;Rangga Putra;Jl. Gedebage Selatan No. 543, Sabang, KS 38487;13/02/1991;L;81278527520
+33;Warji Uyainah;Jl. Gedebage Selatan No. 356, Padang Sidempuan, KB 32834;27/05/1950;P;81227352409
+34;Irma Rajasa;Gang Kutai No. 774, Mataram, SS 43177;18/12/1995;P;81262184518
+35;Gatra Jailani;Jl. Waringin No. 53, Bima, Nusa Tenggara Barat 64479;01/01/1994;P;81297256087
+36;Marwata Hariyah;Jl. Monginsidi No. 5, Cirebon, Banten 05334;27/06/1974;P;81210460848
+37;Irwan Putra;Jl. Kiaracondong No. 73, Payakumbuh, Kalimantan Selatan 83669;06/11/1949;P;81287128657
+38;Tugiman Salahudin;Gang Ahmad Dahlan No. 48, Dumai, KI 14174;20/10/1993;L;81297669482
+39;Clara Nainggolan;Jl. Siliwangi No. 788, Padang, SG 86194;30/06/1958;P;81215268248
+40;Lulut Zulaika;Gang Gedebage Selatan No. 16, Pontianak, JA 89269;19/11/2013;L;81286518262
+41;Jamalia Prasetyo;Jalan Merdeka No. 4, Kotamobagu, Riau 83669;22/03/2006;P;81253362455
+42;Eka Namaga;Jalan Wonoayu No. 6, Banjarmasin, AC 38310;13/03/1990;P;81277780402
+43;Nyana Damanik;Jl. BKR No. 511, Denpasar, BE 05345;23/05/1979;L;81251646074
+44;Vivi Prasasta;Gg. Rungkut Industri No. 84, Padangpanjang, Nusa Tenggara Timur 99467;26/10/2004;L;81253980204
+45;Kariman Winarno;Jalan Monginsidi No. 92, Tebingtinggi, Jambi 50166;22/12/1963;P;81212229378
+46;Eka Irawan;Gang Abdul Muis No. 2, Padangpanjang, GO 25529;20/01/2000;P;81259251959
+47;Puput Damanik;Jl. Indragiri No. 28, Sukabumi, Kalimantan Utara 24530;16/09/1939;L;81235039621
+48;Lutfan Natsir;Gang Rajawali Timur No. 296, Kota Administrasi Jakarta Utara, Aceh 85795;03/09/1971;L;81235344893
+49;Ridwan Handayani;Jl. Pasirkoja No. 58, Pekanbaru, Nusa Tenggara Barat 62071;15/09/1944;P;81298271944
+50;Slamet Mardhiyah;Jalan BKR No. 316, Kediri, PA 79576;11/07/1950;L;81254554069
+51;Irnanto Narpati;Gang Ahmad Yani No. 55, Lhokseumawe, Banten 20057;02/03/2011;P;81225233305
+52;Fitria Zulkarnain;Gg. Setiabudhi No. 503, Sibolga, ST 10430;08/05/1974;P;81258349025
+53;Malika Laksita;Jl. Abdul Muis No. 98, Cilegon, BB 54512;14/11/2012;P;81202940354
+54;Mulya Waluyo;Gang PHH. Mustofa No. 71, Tegal, JB 73788;15/06/2022;P;81257054329
+55;Darsirah Puspita;Gang Rawamangun No. 97, Tegal, MA 77627;12/04/1963;P;81226186496
+56;Kala Saptono;Jl. Moch. Toha No. 342, Jambi, Lampung 72495;25/11/2000;P;81202042564
+57;Balijan Adriansyah;Jl. Soekarno Hatta No. 859, Tanjungpinang, Jambi 74113;11/01/1940;L;81221670896
+58;Halima Haryanto;Gg. Pasirkoja No. 865, Bogor, BB 85645;02/03/1990;P;81288584676
+59;Soleh Hidayanto;Gang Wonoayu No. 605, Parepare, KU 78745;23/09/1985;L;81260385122
+60;Prasetya Kuswoyo;Jl. Rajawali Barat No. 7, Sorong, Sumatera Selatan 12153;16/03/1988;P;81235361662
+61;Ella Samosir;Gg. Waringin No. 7, Pontianak, SU 81393;13/10/1952;P;81213747144
+62;Purwa Melani;Gg. Ciwastra No. 181, Tangerang, Kalimantan Utara 64319;07/12/1970;P;81297665882
+63;Ridwan Susanti;Jl. HOS. Cokroaminoto No. 104, Langsa, SU 90194;07/03/1990;L;81249704581
+64;Hartaka Hutasoit;Gang S. Parman No. 78, Pariaman, Kalimantan Timur 05719;19/06/1944;L;81262922843
+65;Vanya Latupono;Gg. BKR No. 35, Banda Aceh, MU 98465;22/12/1936;P;81261875680
+66;Nova Andriani;Jalan Suryakencana No. 160, Sungai Penuh, Banten 51889;08/06/2016;L;81281586871
+67;Asman Nainggolan;Gg. Dipatiukur No. 5, Magelang, SB 96632;24/09/1954;L;81219714366
+68;Tami Waskita;Jalan Wonoayu No. 722, Yogyakarta, Aceh 01139;24/09/1937;P;81213408537
+69;Lantar Handayani;Gg. Ahmad Yani No. 374, Depok, Kepulauan Riau 60264;12/07/2019;L;81203293777
+70;Maman Hidayanto;Jalan Kendalsari No. 9, Pasuruan, Bengkulu 71238;13/01/2023;L;81200651483
+71;Bakiono Nashiruddin;Gg. Pelajar Pejuang No. 5, Subulussalam, JI 33921;11/09/1996;L;81251060284
+72;Wage Maryati;Jalan Ahmad Dahlan No. 02, Bukittinggi, Kalimantan Tengah 39291;18/04/1955;L;81249401834
+73;Perkasa Mardhiyah;Gang Jakarta No. 922, Surakarta, SR 71678;25/07/1997;P;81259919911
+74;Murti Megantara;Gang Kebonjati No. 5, Langsa, SG 91423;02/06/2013;P;81280138792
+75;Leo Megantara;Gg. Erlangga No. 937, Bau-Bau, BT 90842;30/01/1937;L;81209561548
+76;Ulya Prastuti;Jalan Ahmad Yani No. 7, Ternate, Sulawesi Tengah 22867;23/01/1947;L;81242987236
+77;Nadia Suwarno;Jl. Gardujati No. 711, Yogyakarta, JK 68961;26/04/1943;P;81239811849
+78;Dinda Lailasari;Jalan PHH. Mustofa No. 79, Kediri, Maluku Utara 03668;21/06/1967;L;81245488169
+79;Aurora Prayoga;Gg. Kiaracondong No. 700, Bima, KS 42025;20/03/1941;L;81290558202
+80;Ratih Putra;Jalan Pasirkoja No. 786, Parepare, JK 67784;26/08/1967;P;81239273401
+81;Gantar Widodo;Jalan Kutai No. 1, Ternate, JB 75827;18/09/1947;L;81242666057
+82;Jamal Purwanti;Jalan Gardujati No. 86, Bau-Bau, Jambi 98262;01/12/1976;L;81253157402
+83;Edi Halim;Gang Ronggowarsito No. 1, Sungai Penuh, Jawa Barat 73445;22/02/1996;P;81232445698
+84;Kawaca Firmansyah;Gang Monginsidi No. 79, Padang Sidempuan, Jawa Barat 40759;16/07/1993;L;81222265423
+85;Edward Irawan;Gang Abdul Muis No. 2, Ternate, MU 01465;03/08/1995;P;81296037038
+86;Jamal Anggriawan;Gang Kiaracondong No. 84, Subulussalam, JK 21946;20/11/1945;P;81224237359
+87;Marsito Maheswara;Gg. Yos Sudarso No. 96, Pasuruan, Jambi 25125;15/01/2017;P;81273677469
+88;Lili Nurdiyanti;Jl. BKR No. 541, Samarinda, KS 35455;12/08/1998;L;81275082234
+89;Jabal Permata;Jl. Pasteur No. 7, Sorong, KB 32111;21/11/1956;L;81210424330
+90;Daru Tamba;Jl. Jayawijaya No. 12, Pangkalpinang, DKI Jakarta 28253;17/08/1952;P;81252688383
+91;Luis Prasetyo;Jalan Otto Iskandardinata No. 32, Kota Administrasi Jakarta Barat, Sulawesi Utara 20242;26/12/2018;L;81289486402
+92;Puti Mansur;Gang Ronggowarsito No. 26, Gorontalo, Banten 40399;01/04/1945;P;81251355969
+93;Raditya Putra;Gang Jayawijaya No. 821, Palangkaraya, YO 98442;11/12/2021;P;81273794388
+94;Hamima Natsir;Gang Yos Sudarso No. 160, Tarakan, PB 88490;15/01/1963;P;81292635070
+95;Wulan Permadi;Gang Tebet Barat Dalam No. 79, Parepare, Kalimantan Selatan 02510;31/07/1959;L;81203695751
+96;Tirtayasa Hakim;Gang HOS. Cokroaminoto No. 849, Lubuklinggau, Kalimantan Barat 70099;14/03/2007;L;81285073143
+97;Oskar Usada;Gg. Yos Sudarso No. 1, Kota Administrasi Jakarta Utara, Maluku Utara 66893;22/08/1996;L;81257035671
+98;Asmianto Budiyanto;Jalan Joyoboyo No. 72, Probolinggo, Sulawesi Selatan 33434;27/04/2018;L;81252886394
+99;Hilda Gunawan;Jl. Rajawali Barat No. 63, Kota Administrasi Jakarta Selatan, Nusa Tenggara Timur 28924;17/01/1980;L;81214749096
+100;Raden Susanti;Jalan Laswi No. 2, Blitar, SU 85052;16/06/1980;L;81237200847
+101;Amelia Mandasari;Jl. Raya Ujungberung No. 42, Tasikmalaya, Jawa Timur 59889;30/06/1991;P;81287848736
+102;Elon Wulandari;Gg. Moch. Toha No. 608, Bukittinggi, MA 58899;04/07/1991;L;81256210714
+103;Jane Firmansyah;Jl. H.J Maemunah No. 73, Madiun, Sulawesi Tengah 80250;12/06/1934;L;81276220181
+104;Okto Hariyah;Gg. Kebonjati No. 68, Lubuklinggau, Sulawesi Barat 53619;10/04/1974;P;81297348440
+105;Hardana Utama;Jl. Suryakencana No. 137, Mojokerto, SU 81134;27/12/2014;L;81251465837
+106;Dian Wastuti;Jl. Gegerkalong Hilir No. 807, Sibolga, MU 71043;09/08/1935;P;81295843005
+107;Gamanto Mandasari;Gang Moch. Ramdan No. 06, Kotamobagu, Kalimantan Selatan 95882;27/06/1963;L;81211651200
+108;Janet Safitri;Jalan Sukabumi No. 825, Cimahi, NT 78454;31/01/1977;P;81298311100
+109;Sabar Pradana;Jl. Kendalsari No. 31, Meulaboh, Kepulauan Riau 44880;22/07/1985;P;81292533064
+110;Violet Tarihoran;Gg. Kutisari Selatan No. 660, Pontianak, NB 32684;04/03/1979;P;81274375670
+111;Adikara Siregar;Jl. Rajawali Timur No. 6, Sabang, KI 89207;05/12/2003;L;81202209379
+112;Karen Sirait;Jl. Waringin No. 0, Bima, Kalimantan Barat 96188;29/09/2000;P;81249752604
+113;Endra Wibowo;Jalan Yos Sudarso No. 939, Bekasi, Kalimantan Tengah 20273;24/02/2006;L;81244051491
+114;Atmaja Astuti;Jalan Suniaraja No. 169, Subulussalam, Sulawesi Selatan 18426;23/11/1965;L;81218695612
+115;Lukita Latupono;Gang S. Parman No. 6, Salatiga, KB 93184;27/04/1964;P;81286008723
+116;Juli Sitompul;Gg. Wonoayu No. 56, Ternate, Papua 88925;04/05/1953;P;81212413397
+117;Jagaraga Ardianto;Jalan Otto Iskandardinata No. 937, Parepare, Sulawesi Tengah 56029;18/01/1953;P;81283969758
+118;Sakura Lailasari;Jalan Dipenogoro No. 1, Purwokerto, LA 42314;18/10/1998;L;81290794655
+119;Damar Firgantoro;Jl. Surapati No. 81, Banjarmasin, SU 17209;13/10/1947;L;81299876015
+120;Budi Prasasta;Jl. Pasir Koja No. 63, Bengkulu, Papua Barat 09327;20/05/1973;L;81294747160
+121;Edi Puspasari;Gang H.J Maemunah No. 806, Pekalongan, SS 51702;06/06/1956;L;81271995449
+122;Harto Wibisono;Jl. Peta No. 4, Bontang, KS 41388;26/02/1996;L;81225319846
+123;Taufik Rahayu;Jalan Monginsidi No. 307, Subulussalam, KB 20878;17/11/1970;L;81248090512
+124;Jabal Wibowo;Jl. R.E Martadinata No. 91, Madiun, KS 73071;15/10/1974;P;81288911605
+125;Cinthia Kuswoyo;Jl. Moch. Toha No. 5, Tarakan, JB 60197;18/09/1983;L;81295267584
+126;Aswani Suartini;Gang Gedebage Selatan No. 35, Surabaya, Sumatera Selatan 60938;03/08/1938;P;81266284541
+127;Wardaya Namaga;Jalan Kebonjati No. 45, Salatiga, Kalimantan Selatan 56173;30/12/1969;P;81253942538
+128;Syahrini Widodo;Jalan Pelajar Pejuang No. 78, Surakarta, SU 48469;21/06/2000;P;81231101540
+129;Lanang Winarsih;Gg. Asia Afrika No. 036, Salatiga, KI 80080;12/12/1995;L;81227895473
+130;Daryani Saefullah;Jalan Cihampelas No. 9, Pasuruan, SU 30682;01/10/1951;L;81277864680
+131;Asirwada Saragih;Jl. Dipatiukur No. 8, Manado, Kalimantan Timur 93970;01/09/2008;P;81206870299
+132;Kayun Halim;Jalan Kutai No. 18, Cirebon, SG 88849;20/11/1998;L;81203566602
+133;Rachel Waskita;Gg. Rumah Sakit No. 0, Subulussalam, SG 66925;04/07/2023;P;81218963374
+134;Eka Saputra;Gg. Astana Anyar No. 191, Mojokerto, NT 91754;25/11/1945;P;81298415187
+135;Ratih Prasetyo;Gg. Pasirkoja No. 590, Subulussalam, Sulawesi Tengah 91568;22/11/2011;P;81274107667
+136;Elvina Haryanto;Jl. Moch. Ramdan No. 458, Batu, GO 62291;02/09/2004;L;81267569256
+137;Alika Siregar;Gang Sukajadi No. 8, Gorontalo, NB 28777;16/11/1992;L;81280504795
+138;Rafi Iswahyudi;Jl. Rawamangun No. 1, Tanjungbalai, Kalimantan Tengah 87421;30/09/1938;L;81287422577
+139;Almira Setiawan;Jl. Sukajadi No. 1, Bogor, Papua 99987;03/01/1959;L;81286991536
+140;Rendy Nasyidah;Gg. R.E Martadinata No. 950, Serang, Papua 30986;17/04/2014;P;81208989023
+141;Zizi Agustina;Gg. Sukajadi No. 1, Bengkulu, SU 22997;04/12/1989;L;81246514812
+142;Restu Anggriawan;Jl. Cikutra Timur No. 037, Salatiga, JT 66265;14/11/1989;L;81248897451
+143;Oman Rahayu;Jl. Sadang Serang No. 0, Singkawang, KR 60027;13/01/1952;L;81295784698
+144;Cahyo Pudjiastuti;Jalan Rawamangun No. 1, Malang, BA 58769;23/12/1979;L;81262344771
+145;Winda Wastuti;Gang Kutisari Selatan No. 76, Cimahi, SR 99164;13/11/1956;L;81222122882
+146;Latif Firgantoro;Gg. Setiabudhi No. 05, Yogyakarta, KI 10375;17/07/1995;L;81243807767
+147;Halima Yuliarti;Jl. Cikutra Barat No. 86, Tegal, Jawa Tengah 79929;14/11/2003;P;81260945690
+148;Kamila Wahyuni;Jalan Suryakencana No. 71, Denpasar, Jawa Tengah 88905;30/12/1992;L;81296269254
+149;Enteng Budiyanto;Gang Jakarta No. 2, Palu, Jawa Timur 11577;06/03/2025;L;81236597154
+150;Opan Hartati;Gang Siliwangi No. 652, Medan, Nusa Tenggara Barat 99393;14/09/1972;L;81268240348
+151;Sabri Nashiruddin;Jl. Ahmad Dahlan No. 84, Palembang, KI 25964;13/12/1971;P;81292837493
+152;Mariadi Wibowo;Jalan Otto Iskandardinata No. 9, Bandar Lampung, Kalimantan Timur 10631;13/02/2015;P;81223213644
+153;Edi Marpaung;Gg. Kendalsari No. 33, Cilegon, JT 00971;22/03/1944;L;81289963470
+154;Ghani Siregar;Jalan Kebonjati No. 302, Padangpanjang, Jambi 47844;07/06/1994;P;81275929537
+155;Lega Hutasoit;Jl. Jend. A. Yani No. 832, Bekasi, Kalimantan Utara 35877;11/11/1971;L;81262484944
+156;Edi Prayoga;Jalan PHH. Mustofa No. 64, Gorontalo, KR 10389;26/12/2008;L;81249773887
+157;Prasetya Hardiansyah;Jalan Stasiun Wonokromo No. 83, Palu, JB 19713;01/05/1973;P;81238865982
+158;Clara Handayani;Gg. H.J Maemunah No. 705, Tebingtinggi, Papua 60128;15/03/2007;L;81294052069
+159;Arta Sudiati;Jalan Jayawijaya No. 53, Sabang, PA 15035;27/05/1947;P;81250087237
+160;Akarsana Purwanti;Jalan Veteran No. 928, Yogyakarta, Bali 69529;22/08/1960;P;81223939299
+161;Julia Budiman;Gg. Sadang Serang No. 503, Palembang, SU 42409;23/05/1947;P;81237041901
+162;Raditya Prastuti;Gg. Tebet Barat Dalam No. 8, Tanjungbalai, Bali 27085;10/11/1945;L;81233305290
+163;Mutia Mustofa;Gg. Monginsidi No. 067, Tasikmalaya, Kepulauan Bangka Belitung 51867;03/07/1934;L;81250733337
+164;Indra Laksmiwati;Jl. Sadang Serang No. 97, Sungai Penuh, Banten 19313;02/08/2003;P;81201077120
+165;Lalita Nuraini;Jalan Stasiun Wonokromo No. 703, Tual, KS 42856;01/03/1936;L;81258944826
+166;Cakrawala Hardiansyah;Gang Siliwangi No. 7, Pontianak, BB 02066;21/01/2001;P;81218606121
+167;Nadia Mandasari;Gg. M.T Haryono No. 1, Cilegon, AC 91965;29/10/1957;L;81202925045
+168;Martani Saptono;Gg. Moch. Ramdan No. 6, Lhokseumawe, SU 53289;19/06/1970;P;81225488084
+169;Eja Zulaika;Jl. H.J Maemunah No. 07, Palembang, JT 34599;13/03/1971;P;81296961474
+170;Vega Habibi;Gang Cempaka No. 631, Tanjungpinang, Sulawesi Tenggara 85966;06/06/1963;P;81223573928
+171;Waluyo Irawan;Gang Laswi No. 972, Pangkalpinang, Nusa Tenggara Timur 10276;27/09/1945;L;81282737054
+172;Alambana Samosir;Jl. Kutai No. 832, Batam, SB 86150;14/09/1955;L;81292573801
+173;Wardaya Prabowo;Gg. Tubagus Ismail No. 9, Lubuklinggau, Sulawesi Selatan 23635;20/09/2019;P;81264730804
+174;Cornelia Prasasta;Gang Otto Iskandardinata No. 256, Magelang, KS 81352;21/03/1986;P;81282851777
+175;Emin Manullang;Jl. Erlangga No. 037, Gorontalo, Lampung 58593;30/06/1995;P;81218427400
+176;Bagas Siregar;Jl. Rajawali Timur No. 332, Pangkalpinang, Maluku 60595;28/12/1965;L;81274218101
+177;Kunthara Manullang;Gang Pelajar Pejuang No. 1, Probolinggo, PB 88632;08/07/1990;P;81258219950
+178;Cemeti Permata;Gang H.J Maemunah No. 236, Singkawang, MA 58898;11/07/1944;P;81203017231
+179;Eva Permata;Jl. PHH. Mustofa No. 559, Pagaralam, Papua 19039;17/10/2021;P;81263273511
+180;Pia Rajata;Gg. Pasirkoja No. 8, Pontianak, Sumatera Selatan 46475;04/04/2014;P;81298605328
+181;Akarsana Siregar;Gg. Tebet Barat Dalam No. 93, Purwokerto, Sulawesi Selatan 86898;08/08/2007;L;81246762392
+182;Ridwan Kusumo;Gg. Dipatiukur No. 629, Pariaman, BB 23469;29/09/1976;P;81230897954
+183;Dwi Pranowo;Gang Kendalsari No. 26, Batam, Sulawesi Tenggara 68798;03/09/1995;L;81274207035
+184;Gamani Kusmawati;Jalan Rungkut Industri No. 355, Pekalongan, Nusa Tenggara Timur 78913;10/05/1941;L;81227370430
+185;Narji Pratama;Jalan Cempaka No. 006, Singkawang, Gorontalo 38762;22/04/1968;P;81211256888
+186;Lanang Rajasa;Gang Suniaraja No. 490, Surakarta, Lampung 14887;22/06/2016;L;81286780411
+187;Mujur Permata;Jl. Kapten Muslihat No. 889, Bukittinggi, Banten 65952;01/05/1981;P;81226883644
+188;Respati Tarihoran;Jalan Dipatiukur No. 121, Tidore Kepulauan, PA 92937;08/05/1970;P;81287485531
+189;Umar Puspita;Gang Tubagus Ismail No. 00, Batam, Sulawesi Tengah 87327;05/11/1957;P;81261598365
+190;Kamila Maheswara;Jalan Ciwastra No. 93, Bekasi, Gorontalo 55057;19/10/1939;L;81232323224
+191;Rachel Kusumo;Gang Gegerkalong Hilir No. 53, Metro, GO 63305;19/07/1987;P;81275477602
+192;Praba Widodo;Gg. Jayawijaya No. 231, Kota Administrasi Jakarta Utara, Gorontalo 54875;11/01/2009;L;81272186552
+193;Eluh Widiastuti;Jalan Antapani Lama No. 04, Kota Administrasi Jakarta Barat, PB 12983;29/08/1967;P;81209058966
+194;Ian Suryono;Gang Cihampelas No. 12, Tarakan, KU 31483;03/09/1969;L;81237102263
+195;Elon Purwanti;Gg. Gegerkalong Hilir No. 56, Bandar Lampung, Kalimantan Barat 65392;17/12/1958;P;81281658861
+196;Sabrina Namaga;Jalan Pasirkoja No. 53, Pariaman, Kepulauan Riau 27200;15/11/2002;L;81210119878
+197;Ghaliyati Wijayanti;Jalan Wonoayu No. 1, Surakarta, JI 05218;20/01/1992;P;81239290173
+198;Harsanto Nasyidah;Gg. Laswi No. 35, Tegal, Jambi 82913;02/02/2010;P;81230739774
+199;Warji Prasasta;Jalan Kebonjati No. 5, Ternate, BB 29780;09/07/1997;L;81206223157
+200;Rama Permata;Gg. Ciwastra No. 829, Jayapura, Sulawesi Utara 33248;24/03/1965;L;81299835288

@@ -1,0 +1,394 @@
+id_tindakan;id_perawatan;nama_tindakan;biaya
+1;1;Operasi Caesar;200000
+2;1;Pemeriksaan Jantung;1500000
+3;1;CT Scan;500000
+4;2;USG;500000
+5;3;CT Scan;1500000
+6;4;Operasi Usus Buntu;1500000
+7;4;CT Scan;200000
+8;4;Operasi Usus Buntu;6000000
+9;5;Operasi Caesar;500000
+10;5;Pemeriksaan Jantung;200000
+11;5;CT Scan;1500000
+12;6;CT Scan;250000
+13;7;Pemeriksaan Jantung;500000
+14;8;Pemeriksaan Jantung;200000
+15;8;X-Ray;200000
+16;9;Operasi Usus Buntu;3000000
+17;10;Operasi Caesar;3000000
+18;10;Pemeriksaan Darah;6000000
+19;10;USG;200000
+20;11;Pemeriksaan Umum;500000
+21;12;CT Scan;6000000
+22;12;Operasi Usus Buntu;6000000
+23;12;CT Scan;6000000
+24;13;Operasi Usus Buntu;200000
+25;13;USG;3000000
+26;14;Operasi Caesar;500000
+27;14;Operasi Usus Buntu;250000
+28;15;Operasi Usus Buntu;200000
+29;16;USG;250000
+30;16;X-Ray;200000
+31;17;Pemeriksaan Umum;3000000
+32;17;USG;150000
+33;18;X-Ray;150000
+34;18;Operasi Caesar;500000
+35;19;Pemeriksaan Jantung;1500000
+36;19;Operasi Usus Buntu;3000000
+37;19;USG;1500000
+38;20;CT Scan;1500000
+39;20;Operasi Usus Buntu;150000
+40;20;Pemeriksaan Jantung;250000
+41;21;X-Ray;200000
+42;21;CT Scan;6000000
+43;21;Pemeriksaan Jantung;250000
+44;22;Pemeriksaan Darah;1500000
+45;22;Pemeriksaan Darah;3000000
+46;23;USG;250000
+47;24;X-Ray;500000
+48;25;Operasi Caesar;200000
+49;25;Pemeriksaan Umum;250000
+50;26;Pemeriksaan Darah;500000
+51;27;Operasi Caesar;200000
+52;27;Pemeriksaan Umum;6000000
+53;28;Pemeriksaan Umum;500000
+54;29;CT Scan;150000
+55;29;Pemeriksaan Darah;200000
+56;30;Pemeriksaan Darah;3000000
+57;30;USG;6000000
+58;30;USG;150000
+59;31;Operasi Caesar;150000
+60;31;Operasi Usus Buntu;500000
+61;32;CT Scan;200000
+62;32;CT Scan;3000000
+63;32;Operasi Caesar;1500000
+64;33;X-Ray;150000
+65;34;X-Ray;500000
+66;35;USG;250000
+67;36;Pemeriksaan Umum;6000000
+68;36;CT Scan;150000
+69;37;Pemeriksaan Darah;200000
+70;37;X-Ray;6000000
+71;37;USG;3000000
+72;38;CT Scan;250000
+73;38;Pemeriksaan Umum;150000
+74;39;USG;250000
+75;39;Pemeriksaan Jantung;6000000
+76;39;USG;200000
+77;40;Pemeriksaan Umum;200000
+78;40;Pemeriksaan Jantung;200000
+79;41;CT Scan;6000000
+80;42;Operasi Usus Buntu;6000000
+81;42;X-Ray;250000
+82;42;Operasi Usus Buntu;6000000
+83;43;USG;1500000
+84;43;Pemeriksaan Darah;150000
+85;43;CT Scan;6000000
+86;44;CT Scan;250000
+87;44;X-Ray;500000
+88;45;Pemeriksaan Darah;500000
+89;46;CT Scan;500000
+90;46;USG;500000
+91;47;X-Ray;250000
+92;48;Pemeriksaan Jantung;200000
+93;48;CT Scan;3000000
+94;48;X-Ray;250000
+95;49;USG;150000
+96;49;Operasi Usus Buntu;500000
+97;49;X-Ray;200000
+98;50;Operasi Usus Buntu;250000
+99;50;Pemeriksaan Jantung;3000000
+100;50;Operasi Usus Buntu;150000
+101;51;USG;6000000
+102;51;CT Scan;250000
+103;51;X-Ray;1500000
+104;52;Operasi Caesar;150000
+105;53;Operasi Caesar;200000
+106;53;Operasi Usus Buntu;6000000
+107;54;Pemeriksaan Umum;200000
+108;55;Operasi Caesar;200000
+109;56;Pemeriksaan Darah;200000
+110;57;Pemeriksaan Darah;200000
+111;57;Pemeriksaan Jantung;6000000
+112;57;USG;150000
+113;58;Operasi Usus Buntu;500000
+114;58;Operasi Usus Buntu;6000000
+115;59;CT Scan;250000
+116;59;X-Ray;6000000
+117;59;Pemeriksaan Umum;250000
+118;60;X-Ray;6000000
+119;60;Operasi Caesar;6000000
+120;61;Operasi Usus Buntu;150000
+121;61;Pemeriksaan Jantung;150000
+122;62;Pemeriksaan Jantung;500000
+123;63;Pemeriksaan Darah;150000
+124;64;Operasi Caesar;6000000
+125;64;Operasi Caesar;500000
+126;64;CT Scan;150000
+127;65;X-Ray;3000000
+128;65;Pemeriksaan Jantung;6000000
+129;65;USG;500000
+130;66;USG;150000
+131;66;Operasi Usus Buntu;3000000
+132;66;Pemeriksaan Darah;500000
+133;67;Pemeriksaan Jantung;500000
+134;67;Pemeriksaan Darah;3000000
+135;67;CT Scan;200000
+136;68;Pemeriksaan Umum;3000000
+137;68;USG;500000
+138;69;Operasi Caesar;1500000
+139;69;X-Ray;150000
+140;70;Pemeriksaan Umum;200000
+141;70;Pemeriksaan Darah;3000000
+142;71;USG;3000000
+143;72;CT Scan;3000000
+144;73;USG;200000
+145;73;X-Ray;6000000
+146;74;Operasi Usus Buntu;200000
+147;75;X-Ray;1500000
+148;75;Operasi Usus Buntu;3000000
+149;76;Pemeriksaan Umum;200000
+150;77;X-Ray;6000000
+151;78;CT Scan;500000
+152;78;X-Ray;6000000
+153;79;USG;1500000
+154;80;Pemeriksaan Umum;200000
+155;81;Pemeriksaan Umum;1500000
+156;81;Operasi Usus Buntu;1500000
+157;82;Operasi Usus Buntu;500000
+158;83;Pemeriksaan Jantung;3000000
+159;84;Operasi Usus Buntu;1500000
+160;85;Pemeriksaan Umum;200000
+161;85;Operasi Usus Buntu;250000
+162;86;Operasi Caesar;200000
+163;86;USG;6000000
+164;87;Pemeriksaan Darah;6000000
+165;87;Operasi Usus Buntu;500000
+166;88;Operasi Caesar;3000000
+167;88;CT Scan;3000000
+168;89;Pemeriksaan Darah;6000000
+169;89;CT Scan;1500000
+170;90;Operasi Usus Buntu;6000000
+171;90;Pemeriksaan Darah;6000000
+172;91;CT Scan;150000
+173;91;Operasi Caesar;200000
+174;92;Pemeriksaan Umum;3000000
+175;93;X-Ray;200000
+176;94;Pemeriksaan Umum;1500000
+177;94;Pemeriksaan Umum;250000
+178;95;Pemeriksaan Darah;1500000
+179;96;Operasi Usus Buntu;150000
+180;96;Operasi Usus Buntu;250000
+181;97;X-Ray;200000
+182;98;USG;500000
+183;98;X-Ray;150000
+184;98;Operasi Caesar;500000
+185;99;USG;3000000
+186;99;USG;200000
+187;99;USG;250000
+188;100;Pemeriksaan Darah;200000
+189;100;Pemeriksaan Darah;150000
+190;101;Pemeriksaan Jantung;6000000
+191;101;USG;1500000
+192;102;X-Ray;3000000
+193;102;CT Scan;3000000
+194;103;Pemeriksaan Jantung;1500000
+195;103;CT Scan;3000000
+196;103;Pemeriksaan Umum;1500000
+197;104;Pemeriksaan Darah;200000
+198;104;Operasi Caesar;6000000
+199;104;Operasi Usus Buntu;500000
+200;105;Operasi Caesar;3000000
+201;105;Pemeriksaan Darah;1500000
+202;105;X-Ray;150000
+203;106;X-Ray;3000000
+204;106;USG;6000000
+205;107;USG;1500000
+206;108;USG;6000000
+207;108;Operasi Caesar;6000000
+208;109;X-Ray;6000000
+209;110;Pemeriksaan Jantung;200000
+210;111;Pemeriksaan Darah;200000
+211;111;Pemeriksaan Umum;500000
+212;112;Pemeriksaan Darah;1500000
+213;112;Pemeriksaan Umum;3000000
+214;113;Operasi Usus Buntu;3000000
+215;113;Operasi Usus Buntu;1500000
+216;113;Operasi Usus Buntu;3000000
+217;114;Pemeriksaan Darah;3000000
+218;114;Operasi Caesar;150000
+219;115;Operasi Caesar;500000
+220;116;X-Ray;250000
+221;116;CT Scan;3000000
+222;117;USG;1500000
+223;117;Operasi Usus Buntu;3000000
+224;118;Operasi Usus Buntu;200000
+225;118;Operasi Caesar;250000
+226;118;CT Scan;250000
+227;119;Pemeriksaan Darah;6000000
+228;120;Pemeriksaan Darah;1500000
+229;120;Operasi Usus Buntu;3000000
+230;121;Pemeriksaan Darah;500000
+231;122;Pemeriksaan Umum;500000
+232;122;Operasi Caesar;1500000
+233;122;X-Ray;200000
+234;123;USG;3000000
+235;123;Pemeriksaan Umum;150000
+236;124;Pemeriksaan Jantung;250000
+237;125;Operasi Caesar;500000
+238;125;Pemeriksaan Umum;250000
+239;125;Operasi Usus Buntu;200000
+240;126;Pemeriksaan Jantung;1500000
+241;126;Pemeriksaan Umum;500000
+242;126;Pemeriksaan Jantung;500000
+243;127;USG;200000
+244;127;Operasi Caesar;3000000
+245;128;USG;250000
+246;129;Operasi Caesar;6000000
+247;129;CT Scan;3000000
+248;130;Pemeriksaan Umum;500000
+249;131;Pemeriksaan Umum;500000
+250;131;Operasi Caesar;500000
+251;132;Operasi Usus Buntu;6000000
+252;133;CT Scan;6000000
+253;133;Pemeriksaan Umum;6000000
+254;133;Pemeriksaan Umum;250000
+255;134;Pemeriksaan Jantung;3000000
+256;134;Pemeriksaan Jantung;6000000
+257;135;USG;500000
+258;135;X-Ray;3000000
+259;136;Pemeriksaan Jantung;6000000
+260;136;Pemeriksaan Darah;200000
+261;136;Pemeriksaan Jantung;500000
+262;137;Operasi Usus Buntu;250000
+263;138;Pemeriksaan Umum;3000000
+264;139;Pemeriksaan Darah;250000
+265;140;Operasi Usus Buntu;3000000
+266;140;Operasi Caesar;250000
+267;140;Operasi Caesar;500000
+268;141;USG;150000
+269;142;Pemeriksaan Darah;200000
+270;143;Operasi Caesar;500000
+271;143;Pemeriksaan Darah;500000
+272;143;USG;1500000
+273;144;Operasi Usus Buntu;500000
+274;144;Pemeriksaan Darah;1500000
+275;144;CT Scan;500000
+276;145;Pemeriksaan Darah;500000
+277;145;Operasi Caesar;150000
+278;145;Pemeriksaan Umum;200000
+279;146;Pemeriksaan Darah;500000
+280;146;Pemeriksaan Jantung;200000
+281;147;Pemeriksaan Umum;1500000
+282;147;USG;6000000
+283;147;Pemeriksaan Jantung;500000
+284;148;Pemeriksaan Jantung;1500000
+285;148;USG;3000000
+286;148;Operasi Caesar;3000000
+287;149;USG;200000
+288;149;Pemeriksaan Umum;200000
+289;149;Pemeriksaan Darah;3000000
+290;150;X-Ray;3000000
+291;150;USG;500000
+292;151;Operasi Usus Buntu;1500000
+293;151;Pemeriksaan Darah;150000
+294;151;Operasi Usus Buntu;150000
+295;152;Pemeriksaan Darah;6000000
+296;152;USG;200000
+297;153;Pemeriksaan Darah;6000000
+298;153;USG;500000
+299;153;CT Scan;500000
+300;154;USG;500000
+301;155;Pemeriksaan Darah;150000
+302;156;Pemeriksaan Umum;150000
+303;157;X-Ray;500000
+304;158;X-Ray;150000
+305;158;Pemeriksaan Umum;3000000
+306;158;Pemeriksaan Umum;150000
+307;159;Pemeriksaan Jantung;500000
+308;159;Pemeriksaan Darah;6000000
+309;160;Operasi Caesar;6000000
+310;161;USG;500000
+311;161;Pemeriksaan Darah;1500000
+312;161;Operasi Caesar;1500000
+313;162;Pemeriksaan Umum;3000000
+314;163;Pemeriksaan Jantung;200000
+315;163;X-Ray;3000000
+316;164;CT Scan;150000
+317;164;Operasi Caesar;200000
+318;165;Pemeriksaan Darah;250000
+319;166;X-Ray;250000
+320;166;Pemeriksaan Jantung;150000
+321;167;USG;150000
+322;167;Operasi Caesar;150000
+323;168;Pemeriksaan Jantung;200000
+324;168;CT Scan;150000
+325;169;CT Scan;3000000
+326;169;Pemeriksaan Umum;3000000
+327;169;Pemeriksaan Darah;200000
+328;170;Operasi Caesar;250000
+329;171;Pemeriksaan Darah;500000
+330;171;USG;250000
+331;171;Pemeriksaan Jantung;150000
+332;172;USG;3000000
+333;173;Pemeriksaan Umum;6000000
+334;174;Pemeriksaan Umum;500000
+335;174;X-Ray;250000
+336;175;Operasi Caesar;1500000
+337;175;Operasi Caesar;250000
+338;176;Operasi Usus Buntu;200000
+339;176;CT Scan;3000000
+340;176;USG;200000
+341;177;Pemeriksaan Jantung;500000
+342;177;Pemeriksaan Darah;250000
+343;178;X-Ray;150000
+344;178;USG;3000000
+345;179;CT Scan;6000000
+346;179;Pemeriksaan Jantung;1500000
+347;180;Pemeriksaan Jantung;250000
+348;180;X-Ray;6000000
+349;181;X-Ray;150000
+350;182;Pemeriksaan Umum;1500000
+351;182;Operasi Caesar;1500000
+352;183;Operasi Usus Buntu;6000000
+353;183;X-Ray;500000
+354;184;Operasi Usus Buntu;250000
+355;184;USG;150000
+356;185;CT Scan;150000
+357;185;CT Scan;1500000
+358;186;Pemeriksaan Jantung;500000
+359;187;X-Ray;150000
+360;187;Pemeriksaan Darah;250000
+361;187;Pemeriksaan Jantung;500000
+362;188;CT Scan;150000
+363;188;Operasi Usus Buntu;250000
+364;188;USG;150000
+365;189;Operasi Caesar;250000
+366;189;Pemeriksaan Umum;250000
+367;189;X-Ray;500000
+368;190;Pemeriksaan Umum;150000
+369;190;Pemeriksaan Jantung;500000
+370;190;CT Scan;500000
+371;191;CT Scan;500000
+372;191;USG;6000000
+373;191;Operasi Caesar;200000
+374;192;Pemeriksaan Jantung;250000
+375;192;Operasi Usus Buntu;1500000
+376;192;Pemeriksaan Umum;250000
+377;193;X-Ray;1500000
+378;194;Pemeriksaan Darah;500000
+379;194;X-Ray;3000000
+380;194;USG;3000000
+381;195;Pemeriksaan Umum;150000
+382;195;Pemeriksaan Darah;3000000
+383;195;CT Scan;200000
+384;196;USG;250000
+385;197;Pemeriksaan Jantung;6000000
+386;197;Operasi Usus Buntu;150000
+387;198;X-Ray;250000
+388;198;Pemeriksaan Jantung;250000
+389;199;Pemeriksaan Jantung;1500000
+390;199;Pemeriksaan Umum;200000
+391;200;Operasi Usus Buntu;3000000
+392;200;CT Scan;250000
+393;200;Pemeriksaan Jantung;3000000
