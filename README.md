@@ -11,18 +11,6 @@ Repositori ini berisi seluruh dokumen, dataset, dan kode terkait perancangan ser
 
 ---
 
-## 📚 Daftar Isi
-
-- [Deskripsi Proyek](#deskripsi-proyek)
-- [Struktur Repositori](#struktur-repositori)
-- [Penjelasan Tiap Folder \& Misi](#penjelasan-tiap-folder--misi)
-- [Cara Eksplorasi](#cara-eksplorasi)
-- [Roadmap](#roadmap)
-- [Kontributor](#kontributor)
-- [Lisensi](#lisensi)
-
----
-
 ## 📝 Deskripsi Proyek
 
 Proyek ini bertujuan membangun solusi data warehouse terintegrasi untuk industri kesehatan, khususnya rumah sakit dan klinik. Dengan mengintegrasikan data dari berbagai sumber (rekam medis, billing, laboratorium, farmasi), sistem ini mendukung pengambilan keputusan strategis berbasis data, seperti prediksi lonjakan pasien, pengelolaan stok obat, dan analisis kinerja layanan medis.
