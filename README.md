@@ -34,7 +34,7 @@ Proyek ini bertujuan membangun solusi data warehouse terintegrasi untuk industri
 ```
 .
 ├── dataset/
-│   └── [Data dummy: pasien, dokter, perawatan, tindakan, tagihan, obat]
+│   └── [Data pasien, dokter, perawatan, tindakan, tagihan, dan obat]
 ├── misi-1/
 │   └── [Dokumentasi analisis awal & perancangan konseptual]
 ├── misi-2/
@@ -61,10 +61,7 @@ Analisis kebutuhan, identifikasi masalah bisnis, dan perancangan awal (ERD, daft
 - **misi-2/**
 Desain skema multidimensi (star schema), penjelasan tabel fakta dan dimensi, serta justifikasi desain untuk kebutuhan analitik.
 - **misi-3/**
-Implementasi desain logikal dan fisikal:
-    - Pembuatan tabel fakta \& dimensi
-    - Penentuan indeks, partisi, dan strategi penyimpanan
-    - Contoh query analitik
+Implementasi desain logikal dan fisikal seperti pembuatan tabel fakta \& dimensi, penentuan indeks, partisi, dan strategi penyimpanan, serta contoh query analitik
 - **misi-4/**
 *Coming Soon!*
 Akan diisi pada tahap akhir pengembangan.
