@@ -1,6 +1,6 @@
 
 
-# Data Warehouse Industri Kesehatan - Kelompok 3
+# ✏️ Data Warehouse Industri Kesehatan - Kelompok 3
 
 
 ---
@@ -23,13 +23,13 @@ Repositori ini berisi seluruh dokumen, dataset, dan kode terkait perancangan ser
 
 ---
 
-## Deskripsi Proyek
+## 📝 Deskripsi Proyek
 
 Proyek ini bertujuan membangun solusi data warehouse terintegrasi untuk industri kesehatan, khususnya rumah sakit dan klinik. Dengan mengintegrasikan data dari berbagai sumber (rekam medis, billing, laboratorium, farmasi), sistem ini mendukung pengambilan keputusan strategis berbasis data, seperti prediksi lonjakan pasien, pengelolaan stok obat, dan analisis kinerja layanan medis.
 
 ---
 
-## Struktur Repositori
+## 🗂️ Struktur Repositori
 
 ```
 .
@@ -51,7 +51,7 @@ Proyek ini bertujuan membangun solusi data warehouse terintegrasi untuk industri
 
 ---
 
-## Penjelasan Tiap Folder \& Misi
+## 🤔 Penjelasan Tiap Folder \& Misi
 
 - **dataset/**
 Berisi data dummy yang digunakan dalam simulasi dan pengujian data warehouse.
@@ -70,7 +70,7 @@ Kumpulan kode SQL, notebook, maupun script Python/R untuk proses ETL, pembuatan 
 
 ---
 
-## Cara Eksplorasi
+## 🚀 Cara Eksplorasi
 
 1. **Mulai dari [misi-1/](./misi-1/)**
 Baca analisis kebutuhan dan perancangan awal untuk memahami konteks bisnis dan data yang digunakan.
@@ -85,7 +85,7 @@ Jalankan kode untuk memahami proses ETL, pembuatan tabel, dan analisis data ware
 
 ---
 
-## Roadmap
+## 🎯 Roadmap
 
 | Tahap | Status | Keterangan |
 | :-- | :-- | :-- |
@@ -97,7 +97,7 @@ Jalankan kode untuk memahami proses ETL, pembuatan tabel, dan analisis data ware
 
 ---
 
-## Kontributor
+## ✨ Kontributor
 
 Kelompok 3 - Sains Data, Institut Teknologi Sumatera
 
@@ -110,7 +110,7 @@ Kelompok 3 - Sains Data, Institut Teknologi Sumatera
 
 ---
 
-## Lisensi
+## 🛡️ Lisensi
 
 Proyek ini menggunakan lisensi MIT. Silakan lihat file `LICENSE` untuk detail lebih lanjut.
 
