@@ -25,7 +25,7 @@ Repositori ini berisi seluruh dokumen, dataset, dan kode terkait perancangan ser
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan membangun solusi data warehouse terintegrasi untuk industri kesehatan, khususnya rumah sakit dan klinik. Dengan mengintegrasikan data dari berbagai sumber (rekam medis, billing, laboratorium, farmasi), sistem ini mendukung pengambilan keputusan strategis berbasis data, seperti prediksi lonjakan pasien, pengelolaan stok obat, dan analisis kinerja layanan medis[^1][^2][^3].
+Proyek ini bertujuan membangun solusi data warehouse terintegrasi untuk industri kesehatan, khususnya rumah sakit dan klinik. Dengan mengintegrasikan data dari berbagai sumber (rekam medis, billing, laboratorium, farmasi), sistem ini mendukung pengambilan keputusan strategis berbasis data, seperti prediksi lonjakan pasien, pengelolaan stok obat, dan analisis kinerja layanan medis.
 
 ---
 
@@ -124,13 +124,5 @@ Proyek ini menggunakan lisensi MIT. Silakan lihat file `LICENSE` untuk detail le
 ---
 
 *Terima kasih telah mengunjungi repositori ini. Saran dan masukan sangat kami apresiasi!*
-
----
-
-**Tips Membaca README:**
-
-- Gunakan [Table of Contents](#daftar-isi) untuk navigasi cepat.
-- Setiap folder sudah dilengkapi penjelasan dan dokumentasi agar mudah dipahami.
-- Jika ada pertanyaan, silakan hubungi salah satu kontributor.
 
 ---
