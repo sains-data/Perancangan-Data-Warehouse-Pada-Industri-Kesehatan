@@ -1,4 +1,4 @@
-<img src="https://femboy.beauty/bn_P9f.gif" class="logo" width="120"/>
+<img src="https://femboy.beauty/bn_P9f.gif" class="logo"/>
 
 # Data Warehouse Industri Kesehatan - Kelompok 3
 
