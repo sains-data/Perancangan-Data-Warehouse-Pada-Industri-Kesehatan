@@ -230,6 +230,36 @@ ALTER TABLE `fact_perawatan`
 --
 ALTER TABLE `fact_tindakan`
   ADD PRIMARY KEY (`id_record`);
+
+-- Indeks untuk Tabel Dimensi
+-- Indeks untuk pencarian cepat berdasarkan nama pasien
+CREATE INDEX idx_dim_pasien_nama ON Dim_Pasien(nama_pasien);
+
+-- Indeks untuk pencarian berdasarkan spesialisasi dokter
+CREATE INDEX idx_dim_dokter_spesialisasi ON Dim_Dokter(spesialisasi);
+
+-- Indeks komposit untuk dimensi waktu
+CREATE INDEX idx_dim_waktu_tahun_bulan ON Dim_Waktu(tahun, bulan);
+
+-- Indeks untuk pencarian obat berdasarkan kategori
+CREATE INDEX idx_dim_obat_kategori ON Dim_Obat(kategori_obat);
+
+-- Indeks untuk Tabel Fakta
+-- Indeks untuk foreign key di tabel fakta perawatan
+CREATE INDEX idx_fact_perawatan_pasien ON Fact_Perawatan(fk_pasien);
+CREATE INDEX idx_fact_perawatan_dokter ON Fact_Perawatan(fk_dokter);
+CREATE INDEX idx_fact_perawatan_waktu ON Fact_Perawatan(fk_waktu);
+CREATE INDEX idx_fact_perawatan_pembayaran ON Fact_Perawatan(status_pembayaran);
+
+-- Indeks untuk foreign key di tabel fakta tindakan
+CREATE INDEX idx_fact_tindakan_perawatan ON Fact_Tindakan(fk_perawatan);
+CREATE INDEX idx_fact_tindakan_tipe ON Fact_Tindakan(fk_tipe);
+
+-- Indeks untuk foreign key di tabel fakta obat
+CREATE INDEX idx_fact_obat_pasien ON Fact_Obat(fk_pasien);
+CREATE INDEX idx_fact_obat_obat ON Fact_Obat(fk_obat);
+CREATE INDEX idx_fact_obat_perawatan ON Fact_Obat(fk_perawatan);
+
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
