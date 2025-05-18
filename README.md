@@ -56,14 +56,14 @@ Proyek ini bertujuan membangun solusi data warehouse terintegrasi untuk industri
 Berisi data dummy yang digunakan dalam simulasi dan pengujian data warehouse.
 *Contoh: pasien.csv, dokter.csv, obat.csv, dsb.*
 - **misi-1/**
-Analisis kebutuhan, identifikasi masalah bisnis, dan perancangan awal (ERD, daftar entitas, atribut, serta kebutuhan integrasi data)[^1].
+Analisis kebutuhan, identifikasi masalah bisnis, dan perancangan awal (ERD, daftar entitas, atribut, serta kebutuhan integrasi data).
 - **misi-2/**
-Desain skema multidimensi (star schema), penjelasan tabel fakta dan dimensi, serta justifikasi desain untuk kebutuhan analitik[^2].
+Desain skema multidimensi (star schema), penjelasan tabel fakta dan dimensi, serta justifikasi desain untuk kebutuhan analitik.
 - **misi-3/**
 Implementasi desain logikal dan fisikal:
     - Pembuatan tabel fakta \& dimensi
     - Penentuan indeks, partisi, dan strategi penyimpanan
-    - Contoh query analitik[^3]
+    - Contoh query analitik
 - **misi-4/**
 *Coming Soon!*
 Akan diisi pada tahap akhir pengembangan.
