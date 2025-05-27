@@ -4,10 +4,11 @@
 
 
 ---
-<img src="https://femboy.beauty/bn_P9f.gif" class="logo"/>
 
 Selamat datang di repositori **Data Warehouse Industri Kesehatan**!
 Repositori ini berisi seluruh dokumen, dataset, dan kode terkait perancangan serta implementasi data warehouse untuk mendukung analitik di sektor rumah sakit dan klinik.
+
+<img src="https://femboy.beauty/bn_P9f.gif" class="logo"/>
 
 ---
 
