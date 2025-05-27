@@ -30,7 +30,7 @@ Proyek ini bertujuan membangun solusi data warehouse terintegrasi untuk industri
 ├── misi-3/
 │   └── [Dokumentasi desain logikal, fisikal, dan implementasi]
 ├── misi-4/
-│   └── [Akan diisi pada tahap akhir]
+│   └── [Dokumentasi implementasi sistem & hasil analisis]
 ├── src/
 │   └── [Kode SQL, notebook, script implementasi]
 └── README.md
@@ -51,8 +51,7 @@ Desain skema multidimensi (star schema), penjelasan tabel fakta dan dimensi, ser
 - **misi-3/**
 Implementasi desain logikal dan fisikal seperti pembuatan tabel fakta \& dimensi, penentuan indeks, partisi, dan strategi penyimpanan, serta contoh query analitik
 - **misi-4/**
-*Coming Soon!*
-Akan diisi pada tahap akhir pengembangan.
+Implementasi sistem data warehouse star schema terpusat yang mengintegrasikan data klinik dan rumah sakit untuk mendukung analisis biaya, kinerja, dan pelaporan manajerial
 - **src/**
 Kumpulan kode SQL, notebook, maupun script Python/R untuk proses ETL, pembuatan tabel, dan analisis data warehouse.
 
@@ -66,9 +65,11 @@ Baca analisis kebutuhan dan perancangan awal untuk memahami konteks bisnis dan d
 Pelajari skema multidimensi dan struktur star schema yang menjadi fondasi data warehouse.
 3. **Telusuri [misi-3/](./misi-3/)**
 Temukan detail implementasi teknis, termasuk desain logikal, fisikal, serta contoh query analitik.
-4. **Jelajahi [dataset/](./dataset/)**
+4. **Aplikasikan [misi-4/](./misi-4/)**
+Jalankan pipeline dan eksplorasi metrik biaya dan kinerja data warehouse rumah sakit secara nyata.
+5. **Jelajahi [dataset/](./dataset/)**
 Lihat contoh data yang digunakan untuk simulasi.
-5. **Eksperimen dengan [src/](./src/)**
+6. **Eksperimen dengan [src/](./src/)**
 Jalankan kode untuk memahami proses ETL, pembuatan tabel, dan analisis data warehouse.
 
 ---
@@ -80,7 +81,7 @@ Jalankan kode untuk memahami proses ETL, pembuatan tabel, dan analisis data ware
 | Misi 1 | ✅ Selesai | Analisis kebutuhan \& perancangan konseptual |
 | Misi 2 | ✅ Selesai | Desain multidimensi \& star schema |
 | Misi 3 | ✅ Selesai | Implementasi logikal, fisikal, query analitik |
-| Misi 4 | ⏳ Dalam Proses | Implementasi, Reporting, dan Produksi |
+| Misi 4 | ✅ Selesai | Implementasi, Reporting, dan Produksi |
 
 
 ---

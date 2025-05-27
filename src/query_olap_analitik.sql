@@ -59,7 +59,7 @@ SELECT
 FROM dim_pasien
 GROUP BY jenis_kelamin;
 
--- Ringkasan perawatan pasien
+-- 8. Ringkasan perawatan pasien
 CREATE VIEW vw_ringkasan_perawatan_pasien AS
 SELECT 
     f.id_perawatan,
@@ -73,7 +73,7 @@ FROM fakta_perawatan f
 JOIN dim_pasien p ON f.id_pasien = p.id_pasien
 JOIN dim_dokter d ON f.id_dokter = d.id_dokter;
 
--- Status pembayaran pasien
+-- 9. Status pembayaran pasien
 CREATE VIEW vw_status_pembayaran AS
 SELECT 
     p.nama_pasien,
@@ -83,7 +83,7 @@ SELECT
 FROM fakta_perawatan f
 JOIN dim_pasien p ON f.id_pasien = p.id_pasien;
 
--- Statistik Tindakan per dokter
+-- 10. Statistik Tindakan per dokter
 CREATE VIEW vw_tindakan_per_dokter AS
 SELECT 
     d.nama_dokter,
@@ -95,7 +95,7 @@ JOIN fakta_perawatan f ON t.id_perawatan = f.id_perawatan
 JOIN dim_dokter d ON f.id_dokter = d.id_dokter
 GROUP BY d.nama_dokter, t.nama_tindakan;
 
--- Total biaya obat per pasien
+-- 11. Total biaya obat per pasien
 CREATE VIEW vw_total_obat_pasien AS
 SELECT 
     p.nama_pasien,
@@ -108,7 +108,7 @@ JOIN dim_pasien p ON o.id_pasien = p.id_pasien
 JOIN dim_obat do ON o.kode_obat = do.kode_obat
 GROUP BY p.nama_pasien, o.kode_obat, do.nama_obat;
 
--- Total biaya yang harus dibayarkan pasien
+-- 12. Total biaya yang harus dibayarkan pasien
 CREATE VIEW vw_total_biaya_pasien AS
 SELECT 
     p.nama_pasien,
